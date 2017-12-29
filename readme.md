@@ -1,4 +1,4 @@
-#Bitcoin Price Application
+# Bitcoin Price Application
 
 This is a tkinter application that fetches sells and buys from different websites and plot them on
 graph using matplotlib. The application shows live graph. It shows current Bitcoin price in the 
